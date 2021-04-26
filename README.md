@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @camerynd
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on anything!
+- 📫 How to reach me by email: duarte.camery17@gmail.com
